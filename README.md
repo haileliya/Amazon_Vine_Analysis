@@ -23,6 +23,6 @@ The purpose of this analysis was to analyze data from Amazon's Vine program. The
 
 ## What percentage of non-Vine reviews were 5 stars?
 
--54.5% of unpaid vine reviews were 5-stars. 
+- 54.5% of unpaid vine reviews were 5-stars. 
 
 Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
