@@ -21,10 +21,15 @@ The purpose of this analysis was to analyze data from Amazon's Vine program. The
 
 - 38.2% of paid vine reviews were 5-stars. 
 
+![image](https://user-images.githubusercontent.com/96396696/167303445-1ce58ee2-d288-4e48-83bd-ee94a3366bb0.png)
+
 ## What percentage of non-Vine reviews were 5 stars?
 
 - 54.5% of unpaid vine reviews were 5-stars. 
 
+![image](https://user-images.githubusercontent.com/96396696/167303423-5821cac7-00bb-491c-ad50-890b04c35653.png)
+
+
 Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
 
-In this analysis, I am able to identify that there may be a possible bias for positive reviews because 54.4% of vine reviews were 5-stars. In order to consluvivelly determine whether there was a bias, we'd need to conduct a t-test or a chi-squared test on the data. 
+In this analysis, I am able to identify that there probably is not a bias for positive reviews because only 38.2% of vine reviews were 5-stars. In order to consluvivelly determine whether there was a bias, we'd need to conduct a t-test or a chi-squared test on the data. 
